@@ -22,7 +22,7 @@ sebuah program yang dibuat dengan tujuan supaya bisa mengelola data
 
 ### demo 
 
-[coba demo](https://candradwicahyo.github.io/simple-library.git)
+[coba demo](https://candradwicahyo.github.io/simple-library)
 
 ### preview
 
